@@ -6,6 +6,8 @@ weight = 10
 Zola uses the [Tera](https://keats.github.io/tera) template engine, which is very similar
 to Jinja2, Liquid and Twig.
 
+The current Zola version (0.22 and before) use Tera v1. The documentation for Tera v1 is available there: <https://github.com/Keats/tera/blob/v1/docs/content/docs/_index.md>
+
 As this documentation will only talk about how templates work in Zola, please read
 the [Tera template documentation](https://keats.github.io/tera/docs/#templates) if you want
 to learn more about it first.
